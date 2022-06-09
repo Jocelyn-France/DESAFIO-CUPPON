@@ -1,0 +1,28 @@
+/*.navbar-light {*/
+/*    background-color: #28a745 !important;*/
+/*} esto en vez de bg-success (el original es bg-ligth) */
+.navbar-brand img,
+footer img {
+    width: 5rem;
+    
+}
+.navbar{
+    margin: 2rem;
+}
+.card-footer span {
+    padding-left: 1rem;
+}
+
+i {
+    padding-right: 0.5em;
+}
+form {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin: 1rem;
+        
+    }
+body{
+    margin: 0;
+    padding: 0;
+}
